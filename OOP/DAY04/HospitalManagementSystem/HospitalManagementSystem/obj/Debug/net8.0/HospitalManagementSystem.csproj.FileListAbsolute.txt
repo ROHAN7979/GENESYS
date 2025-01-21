@@ -1,0 +1,14 @@
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY04\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\net8.0\HospitalManagementSystem.exe
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY04\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\net8.0\HospitalManagementSystem.deps.json
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY04\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\net8.0\HospitalManagementSystem.runtimeconfig.json
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY04\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\net8.0\HospitalManagementSystem.dll
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY04\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\net8.0\HospitalManagementSystem.pdb
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY04\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY04\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY04\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.AssemblyInfo.cs
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY04\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY04\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.dll
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY04\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\refint\HospitalManagementSystem.dll
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY04\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.pdb
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY04\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.genruntimeconfig.cache
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY04\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\ref\HospitalManagementSystem.dll

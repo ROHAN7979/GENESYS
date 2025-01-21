@@ -1,0 +1,11 @@
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\Practice\PracticeForInterface\PracticeForInterfaceBL\bin\Debug\net8.0\PracticeForInterfaceBL.deps.json
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\Practice\PracticeForInterface\PracticeForInterfaceBL\bin\Debug\net8.0\PracticeForInterfaceBL.dll
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\Practice\PracticeForInterface\PracticeForInterfaceBL\bin\Debug\net8.0\PracticeForInterfaceBL.pdb
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\Practice\PracticeForInterface\PracticeForInterfaceBL\obj\Debug\net8.0\PracticeForInterfaceBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\Practice\PracticeForInterface\PracticeForInterfaceBL\obj\Debug\net8.0\PracticeForInterfaceBL.AssemblyInfoInputs.cache
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\Practice\PracticeForInterface\PracticeForInterfaceBL\obj\Debug\net8.0\PracticeForInterfaceBL.AssemblyInfo.cs
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\Practice\PracticeForInterface\PracticeForInterfaceBL\obj\Debug\net8.0\PracticeForInterfaceBL.csproj.CoreCompileInputs.cache
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\Practice\PracticeForInterface\PracticeForInterfaceBL\obj\Debug\net8.0\PracticeForInterfaceBL.dll
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\Practice\PracticeForInterface\PracticeForInterfaceBL\obj\Debug\net8.0\refint\PracticeForInterfaceBL.dll
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\Practice\PracticeForInterface\PracticeForInterfaceBL\obj\Debug\net8.0\PracticeForInterfaceBL.pdb
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\Practice\PracticeForInterface\PracticeForInterfaceBL\obj\Debug\net8.0\ref\PracticeForInterfaceBL.dll

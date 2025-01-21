@@ -1,0 +1,18 @@
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\Fundamentals\Assignments\Solution1\Base Project\bin\Debug\net8.0\Base Project.exe
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\Fundamentals\Assignments\Solution1\Base Project\bin\Debug\net8.0\Base Project.deps.json
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\Fundamentals\Assignments\Solution1\Base Project\bin\Debug\net8.0\Base Project.runtimeconfig.json
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\Fundamentals\Assignments\Solution1\Base Project\bin\Debug\net8.0\Base Project.dll
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\Fundamentals\Assignments\Solution1\Base Project\bin\Debug\net8.0\Base Project.pdb
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\Fundamentals\Assignments\Solution1\Base Project\obj\Debug\net8.0\Base Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\Fundamentals\Assignments\Solution1\Base Project\obj\Debug\net8.0\Base Project.AssemblyInfoInputs.cache
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\Fundamentals\Assignments\Solution1\Base Project\obj\Debug\net8.0\Base Project.AssemblyInfo.cs
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\Fundamentals\Assignments\Solution1\Base Project\obj\Debug\net8.0\Base Project.csproj.CoreCompileInputs.cache
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\Fundamentals\Assignments\Solution1\Base Project\obj\Debug\net8.0\Base Project.dll
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\Fundamentals\Assignments\Solution1\Base Project\obj\Debug\net8.0\refint\Base Project.dll
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\Fundamentals\Assignments\Solution1\Base Project\obj\Debug\net8.0\Base Project.pdb
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\Fundamentals\Assignments\Solution1\Base Project\obj\Debug\net8.0\Base Project.genruntimeconfig.cache
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\Fundamentals\Assignments\Solution1\Base Project\obj\Debug\net8.0\ref\Base Project.dll
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\Fundamentals\Assignments\Solution1\Base Project\obj\Debug\net8.0\Base Project.csproj.AssemblyReference.cache
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\Fundamentals\Assignments\Solution1\Base Project\bin\Debug\net8.0\Fundamentals.dll
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\Fundamentals\Assignments\Solution1\Base Project\bin\Debug\net8.0\Fundamentals.pdb
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\Fundamentals\Assignments\Solution1\Base Project\obj\Debug\net8.0\Base Pro.CD5F780C.Up2Date

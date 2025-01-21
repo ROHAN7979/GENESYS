@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Optimus Prime\\OneDrive\\Desktop\\GENESYS\\OOP\\DAY04\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBB7672-1BBE-4C9F-B6D5-E63E8D023CE3}|LibraryManagementSystemBL\\LibraryManagementSystemBL.csproj|c:\\users\\optimus prime\\onedrive\\desktop\\genesys\\oop\\day04\\librarymanagementsystem\\librarymanagementsystembl\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBB7672-1BBE-4C9F-B6D5-E63E8D023CE3}|LibraryManagementSystemBL\\LibraryManagementSystemBL.csproj|solutionrelative:librarymanagementsystembl\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBB7672-1BBE-4C9F-B6D5-E63E8D023CE3}|LibraryManagementSystemBL\\LibraryManagementSystemBL.csproj|c:\\users\\optimus prime\\onedrive\\desktop\\genesys\\oop\\day04\\librarymanagementsystem\\librarymanagementsystembl\\magzines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBB7672-1BBE-4C9F-B6D5-E63E8D023CE3}|LibraryManagementSystemBL\\LibraryManagementSystemBL.csproj|solutionrelative:librarymanagementsystembl\\magzines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBB7672-1BBE-4C9F-B6D5-E63E8D023CE3}|LibraryManagementSystemBL\\LibraryManagementSystemBL.csproj|c:\\users\\optimus prime\\onedrive\\desktop\\genesys\\oop\\day04\\librarymanagementsystem\\librarymanagementsystembl\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBB7672-1BBE-4C9F-B6D5-E63E8D023CE3}|LibraryManagementSystemBL\\LibraryManagementSystemBL.csproj|solutionrelative:librarymanagementsystembl\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860C9166-9CC8-400A-BE12-9E9855B2094D}|LibraryManagementSystemConsoleApp\\LibraryManagementSystemConsoleApp.csproj|c:\\users\\optimus prime\\onedrive\\desktop\\genesys\\oop\\day04\\librarymanagementsystem\\librarymanagementsystemconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860C9166-9CC8-400A-BE12-9E9855B2094D}|LibraryManagementSystemConsoleApp\\LibraryManagementSystemConsoleApp.csproj|solutionrelative:librarymanagementsystemconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Magzines.cs",
+              "DocumentMoniker": "C:\\Users\\Optimus Prime\\OneDrive\\Desktop\\GENESYS\\OOP\\DAY04\\LibraryManagementSystem\\LibraryManagementSystemBL\\Magzines.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemBL\\Magzines.cs",
+              "ToolTip": "C:\\Users\\Optimus Prime\\OneDrive\\Desktop\\GENESYS\\OOP\\DAY04\\LibraryManagementSystem\\LibraryManagementSystemBL\\Magzines.cs*",
+              "RelativeToolTip": "LibraryManagementSystemBL\\Magzines.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:50:12.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Optimus Prime\\OneDrive\\Desktop\\GENESYS\\OOP\\DAY04\\LibraryManagementSystem\\LibraryManagementSystemBL\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemBL\\Book.cs",
+              "ToolTip": "C:\\Users\\Optimus Prime\\OneDrive\\Desktop\\GENESYS\\OOP\\DAY04\\LibraryManagementSystem\\LibraryManagementSystemBL\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystemBL\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:50:03.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Optimus Prime\\OneDrive\\Desktop\\GENESYS\\OOP\\DAY04\\LibraryManagementSystem\\LibraryManagementSystemConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Optimus Prime\\OneDrive\\Desktop\\GENESYS\\OOP\\DAY04\\LibraryManagementSystem\\LibraryManagementSystemConsoleApp\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystemConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:46:34.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "C:\\Users\\Optimus Prime\\OneDrive\\Desktop\\GENESYS\\OOP\\DAY04\\LibraryManagementSystem\\LibraryManagementSystemBL\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemBL\\LibraryItem.cs",
+              "ToolTip": "C:\\Users\\Optimus Prime\\OneDrive\\Desktop\\GENESYS\\OOP\\DAY04\\LibraryManagementSystem\\LibraryManagementSystemBL\\LibraryItem.cs*",
+              "RelativeToolTip": "LibraryManagementSystemBL\\LibraryItem.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:46:06.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

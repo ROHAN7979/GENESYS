@@ -1,0 +1,11 @@
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY03\LibraryMangementApp\LibraryMangementAppBL\bin\Debug\net8.0\LibraryMangementAppBL.deps.json
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY03\LibraryMangementApp\LibraryMangementAppBL\bin\Debug\net8.0\LibraryMangementAppBL.dll
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY03\LibraryMangementApp\LibraryMangementAppBL\bin\Debug\net8.0\LibraryMangementAppBL.pdb
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY03\LibraryMangementApp\LibraryMangementAppBL\obj\Debug\net8.0\LibraryMangementAppBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY03\LibraryMangementApp\LibraryMangementAppBL\obj\Debug\net8.0\LibraryMangementAppBL.AssemblyInfoInputs.cache
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY03\LibraryMangementApp\LibraryMangementAppBL\obj\Debug\net8.0\LibraryMangementAppBL.AssemblyInfo.cs
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY03\LibraryMangementApp\LibraryMangementAppBL\obj\Debug\net8.0\LibraryMangementAppBL.csproj.CoreCompileInputs.cache
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY03\LibraryMangementApp\LibraryMangementAppBL\obj\Debug\net8.0\LibraryMangementAppBL.dll
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY03\LibraryMangementApp\LibraryMangementAppBL\obj\Debug\net8.0\refint\LibraryMangementAppBL.dll
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY03\LibraryMangementApp\LibraryMangementAppBL\obj\Debug\net8.0\LibraryMangementAppBL.pdb
+C:\Users\Optimus Prime\OneDrive\Desktop\GENESYS\OOP\DAY03\LibraryMangementApp\LibraryMangementAppBL\obj\Debug\net8.0\ref\LibraryMangementAppBL.dll

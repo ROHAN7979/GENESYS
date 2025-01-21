@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PracticeForInterfaceConsoleApp/1.0.0": {
+        "dependencies": {
+          "PracticeForInterfaceBL": "1.0.0"
+        },
+        "runtime": {
+          "PracticeForInterfaceConsoleApp.dll": {}
+        }
+      },
+      "PracticeForInterfaceBL/1.0.0": {
+        "runtime": {
+          "PracticeForInterfaceBL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticeForInterfaceConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PracticeForInterfaceBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
